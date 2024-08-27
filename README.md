@@ -29,7 +29,7 @@
 ### 5. [**The Stuart Period and Civil War (1603 to 1714)**](#)
    - [**James I and the Union of the Crowns**](#): The transition from Tudor to Stuart rule, King James Bible.
    - [**Charles I and the Road to Civil War**](#): Conflicts with Parliament, personal rule, and financial issues.
-   - [**The English Civil War (1642-1651)**]](#): Key battles, factions (Royalists vs. Parliamentarians), and the trial and execution of Charles I.
+   - [**The English Civil War (1642-1651)**](#): Key battles, factions (Royalists vs. Parliamentarians), and the trial and execution of Charles I.
    - [**The Commonwealth and Protectorate**](#): Oliver Cromwell's rule, the Interregnum period, and the eventual restoration of the monarchy.
    - [**The Restoration of Charles II (1660-1685)**](#): The return of the monarchy, cultural changes, and political tensions.
    - [**The Glorious Revolution (1688)**](#): The overthrow of James II, William and Mary’s accession, and the establishment of constitutional monarchy.
